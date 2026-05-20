@@ -12,10 +12,9 @@
     <uri>https://www.fintrac-canafe.canada.ca/index.html</uri>
   </author>
   <entry>
-    <title>[TESTING] Avis de CANAFE : Mise à jour sur les obligations de déclaration des activités
-      terroristes</title>
+    <title>[TESTING] test1</title>
     <id>https://fintrac-canafe.canada.ca/notices-avis/avs/2026-05-14-fra</id>
-    <updated>2026-05-23T15:35:00Z</updated>
+    <updated>2026-05-27T15:35:00Z</updated>
     <link href="https://fintrac-canafe.canada.ca/pen/3-fra" />
     <summary type="html">Le Centre d'analyse des opérations et déclarations financières du Canada
       (CANAFE) a publié une mise à jour importante concernant les obligations de déclaration des
@@ -25,9 +24,9 @@
     <category term="Avis" />
   </entry>
   <entry>
-    <title>[TESTING] Directive CANAFE : Conformité renforcée pour les institutions financières</title>
+    <title>[TESTING] test2</title>
     <id>https://fintrac-canafe.canada.ca/guidance-directives/compliance-conformite/enhanced-2026-fra</id>
-    <updated>2026-05-24T15:00:00Z</updated>
+    <updated>2026-05-27T15:00:00Z</updated>
     <link
       href="https://fintrac-canafe.canada.ca/pen/3-fra" />
     <summary type="html">CANAFE a publié une nouvelle directive visant à renforcer les mesures de
@@ -36,20 +35,6 @@
       des sources de fonds, conformément aux normes internationales de lutte contre le blanchiment
       d'argent.</summary>
     <category term="Directives" />
-  </entry>
-  <entry>
-    <title>[TESTING] Rapport statistique : Opérations financières suspectes signalées au premier
-      trimestre
-      2026</title>
-    <id>https://fintrac-canafe.canada.ca/reports-rapports/statistics-statistiques/q1-2026-fra</id>
-    <updated>2026-05-26T15:30:00Z</updated>
-    <link
-      href="https://fintrac-canafe.canada.ca/pen/3-fra" />
-    <summary type="html">CANAFE a publié son rapport statistique trimestral présentant les données
-      sur les opérations financières suspectes signalées au cours du premier trimestre de 2026. Le
-      rapport analyse les tendances en matière de blanchiment d'argent, de financement du terrorisme
-      et d'autres activités financières criminelles signalées par les entités assujetties au Canada.</summary>
-    <category term="Publications" />
   </entry>
   <entry>
     <title>Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 13010431
