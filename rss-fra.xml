@@ -11,7 +11,7 @@
     <name>Centre d'analyse des opérations et déclarations financières du Canada</name>
     <uri>https://www.fintrac-canafe.canada.ca/index.html</uri>
   </author>
-  <!-- <entry>
+  <entry>
     <title>test</title>
     <id>
       https://www.polymtl.ca/ </id>
@@ -20,7 +20,7 @@
       href="https://www.polymtl.ca/" />
     <summary type="html">test123 </summary>
     <category term="Communiqué de presse" />
-  </entry> -->
+  </entry>
   <entry>
     <title>Une enquête interprovinciale sur le trafic de drogue aboutit à la plus importante saisie
       de drogue illicite de l'histoire du Manitoba; 33 personnes ont été arrêtées (en anglais
