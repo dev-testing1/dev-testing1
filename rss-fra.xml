@@ -4,7 +4,7 @@
   <subtitle>Quoi de neuf au Centre d'analyse des opérations et déclarations financières du Canada</subtitle>
   <id>https://www.fintrac-canafe.canada.ca/rss/rss-fra.xml</id>
   <logo>https://www.fintrac-canafe.canada.ca/rss/fintrac-logo.gif</logo>
-  <updated>2026-05-14T08:22:40-04:00</updated>
+  <updated>2026-05-21T09:54:03-04:00</updated>
   <rights>© Centre d'analyse des opérations et déclarations financières du Canada</rights>
   <link href="https://www.fintrac-canafe.canada.ca/rss/rss-fra.xml" rel="self" />
   <author>
@@ -12,35 +12,51 @@
     <uri>https://www.fintrac-canafe.canada.ca/index.html</uri>
   </author>
   <entry>
-    <title>[TESTING] test1</title>
-    <id>https://fintrac-canafe.canada.ca/notices-avis/avs/2026-05-14-fra</id>
-    <updated>2026-05-27T15:35:00Z</updated>
-    <link href="https://fintrac-canafe.canada.ca/pen/3-fra" />
-    <summary type="html">Le Centre d'analyse des opérations et déclarations financières du Canada
-      (CANAFE) a publié une mise à jour importante concernant les obligations de déclaration des
-      activités liées au financement du terrorisme. Cette directive renforce les exigences de
-      conformité pour toutes les entités assujetties à la Loi sur le recyclage des produits de la
-      criminalité et le financement des activités terroristes.</summary>
-    <category term="Avis" />
+    <title>Une enquête interprovinciale sur le trafic de drogue aboutit à la plus importante saisie
+      de drogue illicite de l'histoire du Manitoba; 33 personnes ont été arrêtées (en anglais
+      seulement)</title>
+    <id>
+      https://www.winnipeg.ca/police/community/news-releases/2026-05-20-interprovincial-drug-investigation-leads-largest-illicit-drug-seizure-manitoba-history-33 </id>
+    <updated>2026-05-21T13:35:00Z</updated>
+    <link
+      href="https://www.winnipeg.ca/police/community/news-releases/2026-05-20-interprovincial-drug-investigation-leads-largest-illicit-drug-seizure-manitoba-history-33 " />
+    <summary type="html">La contribution du renseignement financier de CANAFE a été reconnue par le
+      Service de police de Winnipeg à la suite d’une enquête interprovinciale sur le trafic de
+      drogue ciblant un réseau d’individus ayant des liens avec le crime organisé, notamment les
+      Hells Angels, la Wolfpack Alliance et le cartel mexicain. À la suite de cette enquête, 33
+      personnes ont été arrêtées et accusées de 174 infractions liées au trafic de drogue, aux
+      produits de la criminalité et au complot. Les enquêteurs ont également saisi pour plus de 37,2
+      millions de dollars de drogues illicites (valeur estimée sur le marché), 14 armes à feu,
+      environ 825 000 dollars en espèces et 1,35 million de cigarettes illégales. Grâce aux
+      déclarations d’opérations financières transmises par les entreprises canadiennes à l’échelle
+      du pays, CANAFE fournit une aide précieuse pour les enquêtes des organismes d’application de
+      la loi et de sécurité nationale. </summary>
+    <category term="Communiqué de presse" />
   </entry>
   <entry>
-    <title>[TESTING] test2</title>
-    <id>https://fintrac-canafe.canada.ca/guidance-directives/compliance-conformite/enhanced-2026-fra</id>
-    <updated>2026-05-27T15:00:00Z</updated>
-    <link
-      href="https://fintrac-canafe.canada.ca/pen/3-fra" />
-    <summary type="html">CANAFE a publié une nouvelle directive visant à renforcer les mesures de
-      conformité pour toutes les institutions financières. Cette directive offre des lignes
-      directrices actualisées sur l'identification des bénéficiaires effectifs et la vérification
-      des sources de fonds, conformément aux normes internationales de lutte contre le blanchiment
-      d'argent.</summary>
-    <category term="Directives" />
+    <title>Communiqué de presse : La GRC porte des accusations dans la foulée d’une cyberfraude
+      ciblant la PCU</title>
+    <id>https://grc.ca/fr/nouvelles/2026/05/4353253 </id>
+    <updated>2026-05-21T11:35:00Z</updated>
+    <link href="https://grc.ca/fr/nouvelles/2026/05/4353253 " />
+    <summary type="html">La contribution du renseignement financier de CANAFE a été reconnue par la
+      Gendarmerie royale du Canada (GRC) en Ontario à la suite d’une enquête où des accusations ont
+      été portées contre huit personnes dans le cadre d’une cyberfraude ciblant le programme
+      Prestation canadienne d’urgence (PCU). L’enquête a révélé un stratagème de fraude sophistiqué
+      impliquant des réseaux de personnes qui ont travaillé ensemble pour subtiliser des identités
+      personnelles, accéder illégalement à des comptes de l’ARC et demander frauduleusement des
+      prestations du programme PCU. Les réclamations frauduleuses liées à ces accusés ont totalisé
+      environ 364 000 $ obtenus frauduleusement auprès du gouvernement du Canada. Grâce aux
+      déclarations d’opérations financières transmises par les entreprises canadiennes à l’échelle
+      du pays, CANAFE fournit une aide précieuse pour les enquêtes des organismes d’application de
+      la loi et de sécurité nationale.</summary>
+    <category term="Communiqué de presse" />
   </entry>
   <entry>
     <title>Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 13010431
       Canada Inc.</title>
     <id>https://fintrac-canafe.canada.ca/new-neuf/nr/2026-05-14-fra</id>
-    <updated>2026-05-20T13:00:00Z</updated>
+    <updated>2026-05-14T13:00:00Z</updated>
     <link href="https://fintrac-canafe.canada.ca/new-neuf/nr/2026-05-14-fra" />
     <summary type="html">13010431 Canada Inc., faisant également affaire sous le nom de Necosmart,
       une entreprise de services monétaires située à Edmonton, en Alberta, s’est vu imposer une
@@ -930,6 +946,18 @@
     <category term="Communiqué de presse" />
   </entry>
   <entry>
+    <title>CANAFE met à jour ses directives sur le recours à un mandataire à partir du 1er octobre
+      2025 </title>
+    <id>https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-fra</id>
+    <updated>2025-09-15T15:00:00Z</updated>
+    <link
+      href="https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-fra" />
+    <summary type="html">Le Centre d’analyse des opérations et déclarations financières du Canada
+      (CANAFE) met à jour ses directives sur le recours à un mandataire pour vérifier l’identité
+      d’une personne morale ou d’une entité à partir du 1er octobre 2025. </summary>
+    <category term="Publications" />
+  </entry>
+  <entry>
     <title>CANAFE met à jour ses directives sur les dossiers de renseignements à l’égard des parties
       non représentées dans les opérations immobilières à partir du 1er octobre 2025 </title>
     <id>
@@ -940,18 +968,6 @@
     <summary type="html">Le Centre d’analyse des opérations et déclarations financières du Canada
       (CANAFE) met à jour ses directives sur les parties non représentées dans les opérations
       immobilières à partir du 1er octobre 2025 </summary>
-    <category term="Publications" />
-  </entry>
-  <entry>
-    <title>CANAFE met à jour ses directives sur le recours à un mandataire à partir du 1er octobre
-      2025 </title>
-    <id>https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-fra</id>
-    <updated>2025-09-15T15:00:00Z</updated>
-    <link
-      href="https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-fra" />
-    <summary type="html">Le Centre d’analyse des opérations et déclarations financières du Canada
-      (CANAFE) met à jour ses directives sur le recours à un mandataire pour vérifier l’identité
-      d’une personne morale ou d’une entité à partir du 1er octobre 2025. </summary>
     <category term="Publications" />
   </entry>
   <entry>
@@ -2808,7 +2824,7 @@
   <entry>
     <title>Le 17 juillet 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par
       le Groupe d’action financière&#13;
-    </title>
+</title>
     <id>https://fintrac-canafe.canada.ca/notices-avis/avs/2023-07-17-fra</id>
     <updated>2023-07-17T13:00:00Z</updated>
     <link href="https://fintrac-canafe.canada.ca/notices-avis/avs/2023-07-17-fra" />
@@ -3357,14 +3373,14 @@
   <entry>
     <title>Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Nu Stream
       Realty Inc.&#13;
-    </title>
+</title>
     <id>https://fintrac-canafe.canada.ca/new-neuf/nr/2022-07-12-fra&#13;
-    </id>
+</id>
     <updated>2022-07-12T13:00:00Z</updated>
     <link href="https://fintrac-canafe.canada.ca/new-neuf/nr/2022-07-12-fra&#13;&#10;" />
     <summary type="html">CANAFE rend publique sur son site Web une liste des personnes ou entités
       qui se sont vu imposer une pénalité administrative pécuniaire.&#13;
-    </summary>
+</summary>
     <category term="Communiqué de presse" />
   </entry>
   <entry>
@@ -3643,7 +3659,7 @@
     <link href="https://fintrac-canafe.canada.ca/msb-esm/register-inscrire/no-fra" />
     <summary type="html">Les critères définissant qui n’est pas admissible à l’inscription d’une ESM
       ou d’une ESME ont changé. &#13;
-    </summary>
+</summary>
     <category term="Publications" />
   </entry>
   <entry>
